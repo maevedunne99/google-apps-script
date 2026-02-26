@@ -1,4 +1,3 @@
-// maevedunne
 /** 
  * Transforms JSON turns into a simplified "fixed query" format.
  * @param {string} jsonString The cell content from your column.
